@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "suites": 0,
+    "tests": 0,
+    "passes": 0,
+    "pending": 0,
+    "failures": 0,
+    "start": "2020-10-21T07:56:56.667Z",
+    "end": "2020-10-21T07:56:56.677Z",
+    "duration": 10,
+    "testsRegistered": 0,
+    "passPercent": null,
+    "pendingPercent": null,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false,
+    "passPercentClass": "success",
+    "pendingPercentClass": "success"
+  },
+  "suites": false,
+  "copyrightYear": 2020
+}
